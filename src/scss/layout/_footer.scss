@@ -1,0 +1,14 @@
+.footer {
+    padding: calc($separacion /2) 0;
+    background-color: adjust-color($color: #8a8686);
+
+    .contendor-footer {
+        padding-top: calc($separacion/2);
+    }
+
+    .copyright {
+        color: antiquewhite;
+        text-align: center;
+
+    }
+}
