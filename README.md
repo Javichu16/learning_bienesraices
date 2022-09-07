@@ -9,4 +9,6 @@ SourceTree: https://www.sourcetreeapp.com/ <br />
 VSCode: https://code.visualstudio.com/download <br />
 
 ## Clone:
+```console
 git clone https://github.com/Javichu16/learning_bienesraices.git <nombredelacarpetasinlasflechitas>
+```
